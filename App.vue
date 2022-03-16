@@ -14,5 +14,5 @@
 
 <style lang="scss">
 	/*每个页面公共css */
-  @import url("@/static/global.scss");
+  @import "/static/global.scss"
 </style>
